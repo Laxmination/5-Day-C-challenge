@@ -19,3 +19,5 @@
 - There are 32 Keywords in C.
 - auto, double, int, struct, break, else, long, switch, case, enum, register, typedef, char, extern, return, union, continue, for, signed, void, do, if, static, while, default, goto, sizeof, volatile, const, float, sort, unsigned
 
+## Compilation 
+- A computer program that translates C code into machine code.
