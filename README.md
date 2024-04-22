@@ -6,3 +6,8 @@
 - Constants
 - Keyword
 - Compilation
+
+## Chapter 2
+- Instructions
+- Type of instructions
+- Types of operators
