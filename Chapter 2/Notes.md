@@ -18,3 +18,12 @@
 ### Control Instructions
 - These Instructions are used to determine flow of program
 - Types: Sequence Control, Decision Control, Loop Control, Case Control
+
+### Types of Operators
+
+- Arithmetic Operators : Used in Aruthmetic operations
+- Relational Operators: Used in mathematical relations to show relation between two operands
+- Logical Operators: Used to give logic between two operators
+- Bitwise Operators: Used to do operations of two bits i.e. 0 and 1.
+- Assignment Operators
+- Ternary Operators
