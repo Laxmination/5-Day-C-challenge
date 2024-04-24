@@ -14,3 +14,12 @@
 
 ## Chapter 3
 - Conditional Statements
+- If...else statement
+- Switch statement
+- Continue and break
+
+## Chapter 4
+- Loop
+- While loop
+- Do...while loop
+- for loop
