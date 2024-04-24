@@ -10,7 +10,11 @@ int main()
     {
         printf("You are an adult");
     }
-    else 
+    else if(age >= 12)
+    {
+        printf("You are a teenager");
+    }
+    else
     {
         printf("You are a child");
     }
