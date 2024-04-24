@@ -14,3 +14,7 @@ If the test expression is evaluated to true,<br>
 If the test expression is evaluated to false,<br>
 - Statements inside the body of 'else' are executed
 - Statements inside the body of 'if' are skipped from execution.
+
+## Break and Continue
+- The break statement ends the loop immediately when it is encountered. 
+- The continue statement skips the current iteration of the loop and continues with the next iteration. 
