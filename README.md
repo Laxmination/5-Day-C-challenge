@@ -11,3 +11,6 @@
 - Instructions
 - Type of instructions
 - Types of operators
+
+## Chapter 3
+- Conditional Statements
