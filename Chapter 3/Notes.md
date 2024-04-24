@@ -18,3 +18,10 @@ If the test expression is evaluated to false,<br>
 ## Break and Continue
 - The break statement ends the loop immediately when it is encountered. 
 - The continue statement skips the current iteration of the loop and continues with the next iteration. 
+
+### Working algorithm of switch statement
+-The expression is evaluated once and compafred with the values of each case label.
+- If there is a match, the corresponding statements after the maching label are executed.
+- If there is no match, the default statements are executed.
+- If we do not use the break statement, all the statements after the matching label are also executed.
+- The default clause inside the switch statement is optional.
