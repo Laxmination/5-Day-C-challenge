@@ -4,6 +4,12 @@
 - Function only runs when it is called.
 - Function is used also for dividing a complex problem into smaller chunks to make our program easy to understand and reusable.
 
+### Properties of function
+- Execution always starts from main.
+- A function gets called directly or indirectly from main.
+- There can be multiple functions in a program.
+
+
 ## Types of function
 - Pre-Defined Functions 
 - User-Defined Functions
