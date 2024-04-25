@@ -27,3 +27,9 @@ We can also create functions as per our need. Such Functions created by the user
 - The Program will be easier to understand, maintain and debug.
 - We can reuse the same code just by calling the function name.
 - A large program can be divided into smaller modules. Hence, a large project can be divided among any programmers.
+
+## Methods of creating and using userdefined function
+There are following methods:
+
+- <b>Create a function: </b> To create your own function, specify the name of the function, followed by paranthesis () and curly brackets {}:<br>
+Syntex :  function_type function_name(parameter1, parameter2, .......,parametern){/* Some Code*/} 
