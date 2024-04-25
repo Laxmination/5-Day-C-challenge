@@ -18,3 +18,12 @@
 - Pre-Defined Functions are inbuilt functions in C.
 - The prototype and data definitions of these functions a present in their respective header files. To use these functions we need to include the header files in our program.
 - Some examples of pre-defined functions are main(), printf(), scanf(), etc.
+
+
+## User-Defined Functions
+We can also create functions as per our need. Such Functions created by the user are known as user-defined functions.<br><br>
+<b>Advantages of user-defined function:</b><br>
+
+- The Program will be easier to understand, maintain and debug.
+- We can reuse the same code just by calling the function name.
+- A large program can be divided into smaller modules. Hence, a large project can be divided among any programmers.
