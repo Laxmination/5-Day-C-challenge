@@ -31,5 +31,13 @@ We can also create functions as per our need. Such Functions created by the user
 ## Methods of creating and using userdefined function
 There are following methods:
 
-- <b>Create a function: </b> To create your own function, specify the name of the function, followed by paranthesis () and curly brackets {}:<br>
-Syntex :  function_type function_name(parameter1, parameter2, .......,parametern){/* Some Code*/} 
+- <b>Create a function (Function Declaration): </b> To create your own function, specify the name of the function, followed by paranthesis () and curly brackets {}.
+- <b>Function Definition:</b> Function definition contains the block of code to perform a specific task. It is the body of function. 
+
+
+Syntex :  function_type function_name(type1 parameter1, type2 parameter2, .......,typen parametern){/* Some Code*/} 
+
+- <b>Function Call:</b> Declared functions are not executed until they are not called. They are saved for later use and will be executed when they are called. To call a function, we write function's name followed by two parentheses'()' and a semicolon ';'.
+
+Syntex: function_name();
+
