@@ -41,3 +41,11 @@ Syntex :  function_type function_name(type1 parameter1, type2 parameter2, ......
 
 Syntex: function_name();
 
+## Recursion
+When a function calls itself, it is called recursion
+
+### Properties of recursion
+- Anything that can be done with iteration, can be done with recursion and vice-versa.
+- Recursion can sometimes give the most simple solutions.
+- Base case is the condition which stops recursion.
+- Iteration has infinite loop and recursion has stack overflow.
