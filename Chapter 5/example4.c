@@ -17,15 +17,8 @@ int factorial(int n)
     {
         return 1;
     }
-    else if (n == 1)
-    {
-        return 1;
-    }
-    else
-    {
-        int facn1 = factorial(n -1);
-        int fac = facn1 * n;
-        return fac;
-    }
+    int facn1 = factorial(n -1);
+    int fac = facn1 * n;
+    return fac;
     
 }
