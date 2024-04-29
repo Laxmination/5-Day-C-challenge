@@ -11,5 +11,7 @@ int main()
         printf("%c", name[i]);
     }
 
+
+
     printf("\n");
 }
