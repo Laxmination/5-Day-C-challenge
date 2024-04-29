@@ -20,14 +20,14 @@ void swap(int a, int b)
 {
     int t = a;
     a = b;
-    b = a;
-    a = t;
+    b = t;
+
 }
 
 void _swap(int *a, int *b)
 {
     int t = *a;
     *a = *b;
-    *b = *a;
-    *a = t;
+    *b = t;
+
 }
